@@ -1,0 +1,14 @@
+object DM: TDM
+  Height = 750
+  Width = 512
+  PixelsPerInch = 120
+  object conn: TFDConnection
+    Left = 160
+    Top = 96
+  end
+  object QTemp1: TFDQuery
+    Connection = conn
+    Left = 288
+    Top = 96
+  end
+end

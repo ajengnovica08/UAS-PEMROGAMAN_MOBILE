@@ -1,0 +1,22 @@
+object DM: TDM
+  Height = 750
+  Width = 512
+  PixelsPerInch = 120
+  object Conn: TFDConnection
+    Params.Strings = (
+      
+        'Database=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\U' +
+        'ASPMFIX\assets\database\dbSample.db'
+      'DriverID=SQLite')
+    Connected = True
+    LoginPrompt = False
+    BeforeConnect = ConnBeforeConnect
+    Left = 160
+    Top = 96
+  end
+  object QTemp1: TFDQuery
+    Connection = Conn
+    Left = 288
+    Top = 96
+  end
+end

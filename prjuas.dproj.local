@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/01 02:35:26.000.818,=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/02 18:01:06.000.054,=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/02 18:02:03.000.771,C:\Users\alfian\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\frMain.pas</Transaction>
+    <Transaction>2023/07/02 18:02:03.000.771,C:\Users\alfian\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\frMain.fmx</Transaction>
+    <Transaction>2023/07/02 18:03:26.000.865,C:\Users\alfian\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\prjuas.dproj</Transaction>
+    <Transaction>2023/07/02 18:05:48.000.228,=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\Unit1.pas</Transaction>
+    <Transaction>2023/07/02 18:08:58.000.188,C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\Unit1.pas=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\uDM.pas</Transaction>
+    <Transaction>2023/07/02 18:08:58.000.188,C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\Unit1.dfm=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\uDM.dfm</Transaction>
+    <Transaction>2023/07/02 18:17:03.000.041,=C:\Users\alfian\Documents\Embarcadero\Studio\Projects\UASPMFIX\assets\database\dbSample.db</Transaction>
+  </Transactions>
+</BorlandProject>
